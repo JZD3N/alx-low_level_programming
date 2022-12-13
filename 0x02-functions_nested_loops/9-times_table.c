@@ -24,7 +24,7 @@ else if (rep < 10)
 _putchar(' ');
 _putchar('0' + rep);
 }
-Else
+else
 {
 _putchar('0' + rep / 10);
 _putchar('0' + rep % 10);
